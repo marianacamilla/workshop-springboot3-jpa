@@ -1,5 +1,5 @@
 # C-R-U-D 
-[![NPM](https://img.shields.io/npm/l/react)](https://[https://github.com/marianacamilla/workshop-springboot3-jpa/blob/main/LICENCE]
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/marianacamilla/workshop-springboot3-jpa/blob/main/LICENCE)
 
 # Sobre o projeto
 
