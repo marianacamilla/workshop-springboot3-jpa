@@ -39,10 +39,10 @@ git clone https://github.com/marianacamilla/workshop-springboot3-jpa
 # JDBC URL: jdbc:h2:mem:testdb
 
 ```bash
-pronto" agora só verificar todas as tabelas criadas.
+pronto, ora só verificar todas as tabelas criadas.
 
 ``` alternativa:
-caso tenha o postman em seu computador, clone o repositório e depois você pode modificar livremente.
+caso tenha o postman em seu computador, também pode ser usado para deletar, criar e modificar os usuários e pedidos.
 
 ```
 
